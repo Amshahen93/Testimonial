@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>5816B9A7-3403-40B2-8E52-993073B58488@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Become-a-partner-UI" transform="translate(-215.000000, -850.000000)">
+            <g id="Testimonial" transform="translate(215.000000, 628.000000)">
+                <g id="woman" transform="translate(0.000000, 222.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FF725C" opacity="0.100000001" xlink:href="#path-1"></use>
+                    <g id="people-woman-1" mask="url(#mask-2)" stroke="#FF725C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <g transform="translate(13.000000, 11.000000)" id="Path">
+                            <path d="M16.809,19.026 C17.975962,18.8294869 19.114668,18.4916697 20.2,18.02 C20.9470533,17.6842612 21.2866911,16.8113517 20.963,16.059 L19.587,12.849 C19.3468369,12.2887527 19.222999,11.6855533 19.223,11.076 L19.223,9 C19.223,4.44365081 15.5293492,0.75 10.973,0.75 C6.41665081,0.75 2.723,4.44365081 2.723,9 L2.723,11.076 C2.72300095,11.6855533 2.59916306,12.2887527 2.359,12.849 L0.984,16.059 C0.660181351,16.8110814 0.999332947,17.683885 1.746,18.02 C2.83133197,18.4916697 3.97003796,18.8294869 5.137,19.026"></path>
+                            <path d="M20.449,23.25 C18.7157319,19.5864116 15.0259123,17.2501588 10.973,17.2501588 C6.92008768,17.2501588 3.23026811,19.5864116 1.497,23.25"></path>
+                            <path d="M13.223,23.25 L15.257,18.164"></path>
+                            <path d="M6.689,18.164 L8.723,23.25"></path>
+                            <path d="M10.973,5.25 C10.973,5.25 9.54,8.85 5.942,8.995 C5.29753758,11.1453426 6.09158068,13.4675139 7.91774614,14.7730502 C9.7439116,16.0785864 12.1980884,16.0785864 14.0242539,14.7730502 C15.8504193,13.4675139 16.6444624,11.1453426 16,8.995 C12.407,8.847 10.973,5.25 10.973,5.25 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

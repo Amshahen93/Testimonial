@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>2BA1E58C-23B5-4C2E-8E0A-A748148268DA@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Partners-UI" transform="translate(-974.000000, -4402.000000)">
+            <g id="Testimonials" transform="translate(215.000000, 3952.000000)">
+                <g id="Testimonial-Copy" transform="translate(699.000000, 216.000000)">
+                    <g id="man-partner" transform="translate(60.000000, 234.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FF725C" opacity="0.100000001" xlink:href="#path-1"></use>
+                        <g id="professions-man-office-3" mask="url(#mask-2)" stroke="#FF725C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <g transform="translate(14.000000, 12.000000)">
+                                <path d="M0.193,23.25 C0.192815224,19.020608 2.91832202,15.2729857 6.942,13.97 L9.942,16.5 L12.942,13.97 C16.9664689,15.2722836 19.692904,19.0200718 19.693,23.25" id="Path"></path>
+                                <path d="M15.6,15.306 C14.7886902,14.7272463 13.8932325,14.2766506 12.945,13.97 L9.945,16.5 L13.345,20.575 L15.6,15.306 Z" id="Path"></path>
+                                <path d="M9.943,16.5 L6.943,13.97 C5.99524897,14.2770674 5.10018263,14.7276358 4.289,15.306 L6.547,20.575 L9.943,16.5 Z" id="Path"></path>
+                                <path d="M12.193,23.25 L13.339,20.575" id="Path"></path>
+                                <path d="M6.546,20.575 L7.693,23.25" id="Path"></path>
+                                <circle id="Oval" cx="9.943" cy="6" r="5.25"></circle>
+                                <path d="M5.419,3.334 C7.06134331,5.03804894 9.32634116,6.00051057 11.693,6 C12.879983,6.000609 14.0546082,5.75901459 15.145,5.29" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

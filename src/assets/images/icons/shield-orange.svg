@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="52px" viewBox="0 0 40 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>A1558DF2-1C0E-42C9-8B7A-9DD43E2D65CA@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Partners-UI" transform="translate(-400.000000, -3083.000000)">
+            <g id="2" transform="translate(215.000000, 2548.000000)">
+                <g id="Group-11-Copy" transform="translate(0.000000, 469.000000)">
+                    <g id="shield-protected" transform="translate(175.000000, 60.000000)">
+                        <rect id="bound" x="0" y="0" width="60" height="60"></rect>
+                        <path d="M10,10 L29.0785573,6.4227705 C29.6875462,6.30858507 30.3124538,6.30858507 30.9214427,6.4227705 L50,10 L50,33.2075235 C50,40.5434652 46.220866,47.3619587 40,51.25 L31.3249973,56.6718767 C30.5143218,57.178549 29.4856782,57.178549 28.6750027,56.6718767 L20,51.25 C13.779134,47.3619587 10,40.5434652 10,33.2075235 L10,10 Z" id="Path-50" fill="#FF725C" opacity="0.3"></path>
+                        <path d="M36.25,27.5 C37.6307118,27.5 38.75,28.6192883 38.75,30 L38.75,37.5 C38.75,38.8807118 37.6307118,40 36.25,40 L23.75,40 C22.3692881,40 21.25,38.8807118 21.25,37.5 L21.25,30 C21.25,28.6192883 22.3692881,27.5 23.75,27.5 L23.75,26.25 C23.75,22.7982203 26.5482202,20 30,20 C33.4517798,20 36.25,22.7982203 36.25,26.25 L36.25,27.5 Z M30,22.5 C27.9289322,22.5 26.25,24.1789322 26.25,26.25 L26.25,27.5 L33.75,27.5 L33.75,26.25 C33.75,24.1789322 32.0710677,22.5 30,22.5 Z" id="Combined-Shape" fill="#FF725C" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

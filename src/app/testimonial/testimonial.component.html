@@ -1,0 +1,40 @@
+<div class="container-fluid" #testimonialContent>
+  <div class="row">
+    <div class="col-12 p-0 allContent">
+      <!-- testimonial content -->
+      <div class="titleContent">
+        <div class = 'title'>
+            Landlords all over are resting easy thanks to Steady.
+        </div>
+      </div>
+      <div class="testimonialContent noselect" #sliderContent (mousemove) = 'sliderMuve($event)'
+      (mousedown) = 'mousedownInSlider($event)' (mouseup) = 'leftSlider()' (mouseleave) = 'leftSlider()'> 
+          <div class = 'comentContent' *ngFor = 'let item of sliderData; let i = index;' [@sliderAnimations] = 'animationsStates[i]'>
+            <div class="bigContent">
+              <div class="text-content">
+                {{item.text}}
+              </div>
+              <div class="textHiden"></div>
+              <div class="userInfo">
+                <img class = 'userLogo' [src] = 'item.imgUrl'>
+                <div class = 'userName'>{{item.userName}}</div>
+              </div>
+            </div>
+          </div>
+      </div>
+      <!-- Buttons -->
+      <div class = 'buttonsContent'>
+        <div class="turnButtonLeft noselect" (click) = 'clickToLeft()'>
+          <div class='arrowContentLeft'>
+            <img class = 'nextToLeft' src = 'assets/images/next.png'>
+          </div>
+        </div>
+        <div class="turnButtonRight noselect" (click) = 'clickToRight()'>
+          <div class='arrowContentRight'>
+            <img class = 'nextToRight' src = 'assets/images/next.png'>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

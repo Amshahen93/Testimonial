@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1137px" height="514px" viewBox="0 0 1137 514" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>orange bg@svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="242.75954%" gradientTransform="translate(0.000000,0.000000),scale(0.452067,1.000000),rotate(24.326148),translate(-0.000000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M6.409713,-1.1471385e-15 L1130.59029,-6.29218343e-16 C1132.81908,-1.03864168e-15 1133.6273,0.232064028 1134.44211,0.667831759 C1135.25693,1.10359949 1135.8964,1.74307093 1136.33217,2.55788574 C1136.76794,3.37270056 1137,4.18091615 1137,6.409713 L1137,455.590287 C1137,457.819084 1136.76794,458.627299 1136.33217,459.442114 C1135.8964,460.256929 1135.25693,460.896401 1134.44211,461.332168 C1133.6273,461.767936 1132.81908,462 1130.59029,462 L663.965574,462 C643.679482,462 624.556577,471.47112 612.262382,487.607362 C598.85669,505.202454 584.435896,514 569,514 C553.32851,514 538.354569,504.931855 524.078179,486.795564 L524.078179,486.795564 C511.753721,471.138949 492.929097,462 473.003691,462 L6.409713,462 C4.18091615,462 3.37270056,461.767936 2.55788574,461.332168 C1.74307093,460.896401 1.10359949,460.256929 0.667831759,459.442114 C0.232064028,458.627299 2.76338399e-14,457.819084 2.7360891e-14,455.590287 L1.06081847e-15,6.409713 C7.87869578e-16,4.18091615 0.232064028,3.37270056 0.667831759,2.55788574 C1.10359949,1.74307093 1.74307093,1.10359949 2.55788574,0.667831759 C3.37270056,0.232064028 4.18091615,-7.37715157e-16 6.409713,-1.1471385e-15 Z" id="path-2"></path>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Partners-UI" transform="translate(-332.000000, -1890.000000)">
+            <g id="Break" transform="translate(332.000000, 1890.000000)">
+                <g id="Path">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="orange-bg">
+                        <use fill="#FF725C" xlink:href="#path-2"></use>
+                        <use fill-opacity="0.3" fill="url(#radialGradient-1)" style="mix-blend-mode: overlay;" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

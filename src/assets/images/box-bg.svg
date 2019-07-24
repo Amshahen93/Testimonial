@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1295px" height="629px" viewBox="0 0 1295 629" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>223AF1BE-C7E8-42C0-9E86-337A5E761C39@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M6.409713,1.13660942e-12 L1130.59029,1.13712734e-12 C1132.81908,1.13671791e-12 1133.6273,0.232064028 1134.44211,0.667831759 C1135.25693,1.10359949 1135.8964,1.74307093 1136.33217,2.55788574 C1136.76794,3.37270056 1137,4.18091615 1137,6.409713 L1137,414.590287 C1137,416.819084 1136.76794,417.627299 1136.33217,418.442114 C1135.8964,419.256929 1135.25693,419.896401 1134.44211,420.332168 C1133.6273,420.767936 1132.81908,421 1130.59029,421 L663.965574,421 C643.679482,421 624.556577,430.47112 612.262382,446.607362 C598.85669,464.202454 584.435896,473 569,473 C553.32851,473 538.354569,463.931855 524.078179,445.795564 L524.078179,445.795564 C511.753721,430.138949 492.929097,421 473.003691,421 L6.409713,421 C4.18091615,421 3.37270056,420.767936 2.55788574,420.332168 C1.74307093,419.896401 1.10359949,419.256929 0.667831759,418.442114 C0.232064028,417.627299 2.85220183e-14,416.819084 2.82490694e-14,414.590287 L1.72640051e-16,6.409713 C-1.00308841e-16,4.18091615 0.232064028,3.37270056 0.667831759,2.55788574 C1.10359949,1.74307093 1.74307093,1.10359949 2.55788574,0.667831759 C3.37270056,0.232064028 4.18091615,1.13701884e-12 6.409713,1.13660942e-12 Z" id="path-1"></path>
+        <filter x="-14.1%" y="-16.9%" width="128.1%" height="167.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="80" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="40" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.223529412   0 0 0 0 0.28627451   0 0 0 0 0.670588235  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landlords-UI" transform="translate(-253.000000, -1962.000000)">
+            <g id="Break" transform="translate(332.000000, 1962.000000)">
+                <g id="Path">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="box">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.2" fill="#3949AB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

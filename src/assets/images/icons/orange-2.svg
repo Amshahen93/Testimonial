@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>43BD6FFA-CA41-4BEB-86E3-6AE35DC11A6D@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Partners-UI" transform="translate(-875.000000, -1420.000000)">
+            <g id="1" transform="translate(215.000000, 1110.000000)">
+                <g id="Group-11-Copy-2" transform="translate(482.000000, 216.000000)">
+                    <g id="dashboard" transform="translate(173.000000, 84.000000)">
+                        <rect id="bound" x="0" y="0" width="60" height="60"></rect>
+                        <path d="M7.5,10 L50,10 C51.3807118,10 52.5,11.1192881 52.5,12.5 L52.5,17.5 C52.5,18.8807119 51.3807118,20 50,20 L7.5,20 C6.11928812,20 5,18.8807119 5,17.5 L5,12.5 C5,11.1192881 6.11928812,10 7.5,10 Z M25,25 L50,25 C51.3807118,25 52.5,26.1192883 52.5,27.5 L52.5,47.5 C52.5,48.8807118 51.3807118,50 50,50 L25,50 C23.6192881,50 22.5,48.8807118 22.5,47.5 L22.5,27.5 C22.5,26.1192883 23.6192881,25 25,25 Z" id="Combined-Shape" fill="#FF725C" fill-rule="nonzero"></path>
+                        <rect id="Rectangle-7-Copy-2" fill="#FF725C" opacity="0.3" x="5" y="25" width="12.5" height="25" rx="2.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
